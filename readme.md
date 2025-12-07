@@ -7,4 +7,6 @@ https://adventofcode.com/
 - [Day 03: Lobby](https://github.com/VictorRotha/AdventOfCode2025/blob/master/src/main/kotlin/day03/Day03.kt)
 - [Day 04: Printing Department](https://github.com/VictorRotha/AdventOfCode2025/blob/master/src/main/kotlin/day04/Day04.kt)
 - [Day 05: Cafeteria](https://github.com/VictorRotha/AdventOfCode2025/blob/master/src/main/kotlin/day05/Day05.kt)
+- [Day 06: Trash Compactor](https://github.com/VictorRotha/AdventOfCode2025/blob/master/src/main/kotlin/day06/Day06.kt)
+- [Day 07: Laboratories](https://github.com/VictorRotha/AdventOfCode2025/blob/master/src/main/kotlin/day07/Day07.kt)
 
